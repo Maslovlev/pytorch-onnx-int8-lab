@@ -1,0 +1,2 @@
+Demo file for efficientnet_b0_int8.onnx
+Accuracy: Float32=0.8563, INT8=0.8317
